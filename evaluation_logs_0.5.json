@@ -1,0 +1,322 @@
+[
+  {
+    "query": "machine learning",
+    "paper_id": "paper_0",
+    "model_score": 0.7579611934436126,
+    "human_score": 5,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "machine learning",
+    "paper_id": "paper_1",
+    "model_score": 0.7247121001702013,
+    "human_score": 5,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "machine learning",
+    "paper_id": "paper_2",
+    "model_score": 0.6252449942003427,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "machine learning",
+    "paper_id": "paper_3",
+    "model_score": 0.6200097764675676,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "machine learning",
+    "paper_id": "paper_4",
+    "model_score": 0.6133250273581119,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "machine learning",
+    "paper_id": "paper_5",
+    "model_score": 0.5677457173604632,
+    "human_score": 3,
+    "human_binary": 0,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "What papers discuss the dynamic backtracking in search algorithm",
+    "paper_id": "paper_0",
+    "model_score": 0.8600742505937533,
+    "human_score": 5,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "What papers discuss the dynamic backtracking in search algorithm",
+    "paper_id": "paper_1",
+    "model_score": 0.5853572271658549,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "What papers discuss the dynamic backtracking in search algorithm",
+    "paper_id": "paper_2",
+    "model_score": 0.5148114766990337,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "What papers discuss the dynamic backtracking in search algorithm",
+    "paper_id": "paper_3",
+    "model_score": 0.5148114766990337,
+    "human_score": 3,
+    "human_binary": 0,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "satisfaction problem in computing",
+    "paper_id": "paper_0",
+    "model_score": 0.7068232729936182,
+    "human_score": 5,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "satisfaction problem in computing",
+    "paper_id": "paper_1",
+    "model_score": 0.6197920285378046,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "Market-oriented computation and distributed systems",
+    "paper_id": "paper_0",
+    "model_score": 0.8408853604635739,
+    "human_score": 5,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "Market-oriented computation and distributed systems",
+    "paper_id": "paper_1",
+    "model_score": 0.6540724546598308,
+    "human_score": 5,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "Market-oriented computation and distributed systems",
+    "paper_id": "paper_2",
+    "model_score": 0.5473982789943599,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "What about C++ & Java?",
+    "paper_id": "paper_0",
+    "model_score": 0.7695855369953231,
+    "human_score": 5,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "What about C++ & Java?",
+    "paper_id": "paper_1",
+    "model_score": 0.7606939804747661,
+    "human_score": 5,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "What about C++ & Java?",
+    "paper_id": "paper_2",
+    "model_score": 0.7581577590329835,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "What about C++ & Java?",
+    "paper_id": "paper_3",
+    "model_score": 0.662371063936495,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "What about C++ & Java?",
+    "paper_id": "paper_4",
+    "model_score": 0.6467797618308281,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "What about C++ & Java?",
+    "paper_id": "paper_5",
+    "model_score": 0.6455071462713057,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "What about C++ & Java?",
+    "paper_id": "paper_6",
+    "model_score": 0.6015278546626325,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "papers on AI",
+    "paper_id": "paper_0",
+    "model_score": 0.7383308435108187,
+    "human_score": 5,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "papers on AI",
+    "paper_id": "paper_1",
+    "model_score": 0.6126884444869015,
+    "human_score": 5,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "papers on AI",
+    "paper_id": "paper_2",
+    "model_score": 0.5744640941405237,
+    "human_score": 5,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "Mathecial problems and a comprehensive approach",
+    "paper_id": "paper_0",
+    "model_score": 0.7633698763414476,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "Mathecial problems and a comprehensive approach",
+    "paper_id": "paper_1",
+    "model_score": 0.6296377753698766,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "Mathecial problems and a comprehensive approach",
+    "paper_id": "paper_2",
+    "model_score": 0.5883995441179158,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "Mathecial problems and a comprehensive approach",
+    "paper_id": "paper_3",
+    "model_score": 0.5602978877043944,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "Mathecial problems and a comprehensive approach",
+    "paper_id": "paper_4",
+    "model_score": 0.5290714559280331,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "Find all papers about learning algorithms",
+    "paper_id": "paper_0",
+    "model_score": 0.7117012268387809,
+    "human_score": 5,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "Find all papers about learning algorithms",
+    "paper_id": "paper_1",
+    "model_score": 0.694315211152146,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "Find all papers about learning algorithms",
+    "paper_id": "paper_2",
+    "model_score": 0.6822694822945443,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "Find all papers about learning algorithms",
+    "paper_id": "paper_3",
+    "model_score": 0.5462873559942356,
+    "human_score": 3,
+    "human_binary": 0,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "mysteries in physics",
+    "paper_id": "paper_0",
+    "model_score": 0.759956578299693,
+    "human_score": 5,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "mysteries in physics",
+    "paper_id": "paper_1",
+    "model_score": 0.7491771242432819,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "mysteries in physics",
+    "paper_id": "paper_2",
+    "model_score": 0.6394387305771783,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "mysteries in physics",
+    "paper_id": "paper_3",
+    "model_score": 0.5987448092608363,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "What is the best pizza recipe",
+    "paper_id": "paper_0",
+    "model_score": 0.7852639211303101,
+    "human_score": 5,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  },
+  {
+    "query": "What is the best pizza recipe",
+    "paper_id": "paper_1",
+    "model_score": 0.688771000687547,
+    "human_score": 5,
+    "human_binary": 1,
+    "threshold_used": 0.5
+  }
+]

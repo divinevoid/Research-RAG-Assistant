@@ -1,0 +1,170 @@
+[
+  {
+    "query": "machine learning",
+    "paper_id": "paper_0",
+    "model_score": 0.7579611934436126,
+    "human_score": 5,
+    "human_binary": 1,
+    "threshold_used": 0.4
+  },
+  {
+    "query": "machine learning",
+    "paper_id": "paper_1",
+    "model_score": 0.7247121001702013,
+    "human_score": 5,
+    "human_binary": 1,
+    "threshold_used": 0.4
+  },
+  {
+    "query": "machine learning",
+    "paper_id": "paper_2",
+    "model_score": 0.6252449942003427,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.4
+  },
+  {
+    "query": "machine learning",
+    "paper_id": "paper_3",
+    "model_score": 0.6200097764675676,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.4
+  },
+  {
+    "query": "machine learning",
+    "paper_id": "paper_4",
+    "model_score": 0.6133250273581119,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.4
+  },
+  {
+    "query": "machine learning",
+    "paper_id": "paper_5",
+    "model_score": 0.5677457173604632,
+    "human_score": 3,
+    "human_binary": 0,
+    "threshold_used": 0.4
+  },
+  {
+    "query": "What papers discuss the dynamic backtracking in search algorithm",
+    "paper_id": "paper_0",
+    "model_score": 0.8600742505937533,
+    "human_score": 5,
+    "human_binary": 1,
+    "threshold_used": 0.4
+  },
+  {
+    "query": "What papers discuss the dynamic backtracking in search algorithm",
+    "paper_id": "paper_1",
+    "model_score": 0.5853572271658549,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.4
+  },
+  {
+    "query": "What papers discuss the dynamic backtracking in search algorithm",
+    "paper_id": "paper_2",
+    "model_score": 0.5148114766990337,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.4
+  },
+  {
+    "query": "What papers discuss the dynamic backtracking in search algorithm",
+    "paper_id": "paper_3",
+    "model_score": 0.5148114766990337,
+    "human_score": 3,
+    "human_binary": 0,
+    "threshold_used": 0.4
+  },
+  {
+    "query": "What papers discuss the dynamic backtracking in search algorithm",
+    "paper_id": "paper_4",
+    "model_score": 0.4193321343030274,
+    "human_score": 3,
+    "human_binary": 0,
+    "threshold_used": 0.4
+  },
+  {
+    "query": "satisfaction problem in computing",
+    "paper_id": "paper_0",
+    "model_score": 0.7068232729936182,
+    "human_score": 5,
+    "human_binary": 1,
+    "threshold_used": 0.4
+  },
+  {
+    "query": "satisfaction problem in computing",
+    "paper_id": "paper_1",
+    "model_score": 0.6197920285378046,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.4
+  },
+  {
+    "query": "satisfaction problem in computing",
+    "paper_id": "paper_2",
+    "model_score": 0.4904674501383945,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.4
+  },
+  {
+    "query": "satisfaction problem in computing",
+    "paper_id": "paper_3",
+    "model_score": 0.4089819221887004,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.4
+  },
+  {
+    "query": "Market-oriented computation and distributed systems",
+    "paper_id": "paper_0",
+    "model_score": 0.8408853604635739,
+    "human_score": 5,
+    "human_binary": 1,
+    "threshold_used": 0.4
+  },
+  {
+    "query": "Market-oriented computation and distributed systems",
+    "paper_id": "paper_1",
+    "model_score": 0.6540724546598308,
+    "human_score": 5,
+    "human_binary": 1,
+    "threshold_used": 0.4
+  },
+  {
+    "query": "Market-oriented computation and distributed systems",
+    "paper_id": "paper_2",
+    "model_score": 0.5473982789943599,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.4
+  },
+  {
+    "query": "Market-oriented computation and distributed systems",
+    "paper_id": "paper_3",
+    "model_score": 0.4798730408048031,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.4
+  },
+  {
+    "query": "Market-oriented computation and distributed systems",
+    "paper_id": "paper_4",
+    "model_score": 0.45714256093638533,
+    "human_score": 4,
+    "human_binary": 1,
+    "threshold_used": 0.4
+  },
+  {
+    "query": "Market-oriented computation and distributed systems",
+    "paper_id": "paper_5",
+    "model_score": 0.4071491063781332,
+    "human_score": 3,
+    "human_binary": 0,
+    "threshold_used": 0.4
+  }
+]
