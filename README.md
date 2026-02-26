@@ -22,7 +22,7 @@ This system retrieves **relevant research papers** for a given query, **reranks*
 ## 🏗️ Project Architecture
 
 Research-RAG-Assistant/
-│
+```│
 ├── app.py                  # Streamlit application
 ├── create_embeddings.py    # Embedding creation pipeline
 ├── run_evaluation.py       # Evaluation script
@@ -30,7 +30,7 @@ Research-RAG-Assistant/
 ├── .env                    # API keys (not committed)
 ├── eval/                   # Evaluation logic and metrics
 └── a.py                    # Core RAG pipeline logic
-
+```
 ## ▶️ How to Run the Project
 
 Follow the steps below to set up and run the **Research RAG Assistant** locally.
@@ -66,7 +66,9 @@ pip install -r requirements.txt
 ### 4️⃣ Configure Environment Variables
 
 Create a .env file in the project root and add your Gemini API key:
+```.env
 GEMINI_API_KEY=your_api_key_here
+```
 
 ### 5️⃣ Generate Embeddings
 
