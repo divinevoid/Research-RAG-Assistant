@@ -1,26 +1,90 @@
-# Research-RAG-Assistant
-This is research RAG assistant that can be used to retrieve relevant papers based on given query, rernaks them, uses a hybrid scoring method and generates novel research ideas grounded from retrieved papers along with the novelty scores.
+# 📚 Research RAG Assistant
 
-**To run the code**
-**1. Create a virtual environment**
-python -m venv .venv (for windows)
-python3 -m venv .venv (for ios)
+A **Research-oriented Retrieval-Augmented Generation (RAG) Assistant** designed to help researchers efficiently discover, evaluate, and ideate on academic literature.
 
-**2. Run the virtual environment**
-.venv\Scripts\activate (for windows)
-source .venv/bin/activate (for ios)
+This system retrieves **relevant research papers** for a given query, **reranks** them using a **hybrid scoring approach**, and generates **novel research ideas** grounded in the retrieved papers along with **novelty scores**.
 
-**3. Install the requirements**
+---
+
+## 🚀 Key Features
+
+- 🔍 **Query-based Paper Retrieval**
+- 📊 **Hybrid Scoring Mechanism**
+  - Semantic similarity
+  - Relevance-based reranking
+- 🧠 **LLM-powered Novel Research Idea Generation**
+- 🧪 **Novelty Scoring** for generated ideas
+- 📈 **Evaluation Pipeline** for quantitative assessment
+- 🌐 **Interactive Streamlit Interface**
+
+---
+
+## 🏗️ Project Architecture
+
+Research-RAG-Assistant/
+│
+├── app.py                  # Streamlit application
+├── create_embeddings.py    # Embedding creation pipeline
+├── run_evaluation.py       # Evaluation script
+├── requirements.txt        # Project dependencies
+├── .env                    # API keys (not committed)
+├── eval/                   # Evaluation logic and metrics
+└── a.py                    # Core RAG pipeline logic
+
+## ▶️ How to Run the Project
+
+Follow the steps below to set up and run the **Research RAG Assistant** locally.
+
+---
+
+### 1️⃣ Create a Virtual Environment
+
+**Windows**
+```bash
+python -m venv .venv
+```
+**Macos/Linux**
+```bash
+python3 -m venv .venv
+```
+### 2️⃣ Activate the Virtual Environment
+
+**Windows**
+```bash
+.venv\Scripts\activate
+```
+**Macos/Linux**
+```bash
+source .venv/bin/activate
+```
+### 3️⃣ Install Project Dependencies
+
+```bash
 pip install -r requirements.txt
+```
 
-**4. Create a .env file and put your gemini api key inside it.**
+### 4️⃣ Configure Environment Variables
 
-**5. Run create_embeddings.py**
+Create a .env file in the project root and add your Gemini API key:
+GEMINI_API_KEY=your_api_key_here
+
+### 5️⃣ Generate Embeddings
+
+Run the embedding creation script:
+```bash
 python create_embeddings.py
+```
 
-**6. Run the app.py**
+### 6️⃣ Run the Application
+
+Start the Streamlit app:
+```bash
 streamlit run app.py
+```
 
-**7. Run the run_evaluation.py to evaluate the results**
+### 7️⃣ Run Evaluation (Optional)
+
+Evaluate retrieval results
+```bash
 python run_evaluation.py
-
+```
