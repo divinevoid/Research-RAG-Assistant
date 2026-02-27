@@ -49,7 +49,7 @@ if "ideas" not in st.session_state:
 if "novelty" not in st.session_state:
     st.session_state.novelty = None
 
-if "active query" not in st.session_state:
+if "active_query" not in st.session_state:
     st.session_state.active_query = None
 
 if "logged_papers" not in st.session_state:
@@ -81,6 +81,8 @@ with col1:
             
         if query != st.session_state.active_query:
             st.session_state.logged_papers = set()
+
+        st.session_state.active_query = query
         with st.spinner("🔎 Retrieving relevant papers..."):
 
             results = retrieve_with_full_scores(
